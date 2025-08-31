@@ -12,7 +12,7 @@ It's a solution of a newbie challange called "Product preview card component" ma
 
 Here is the link of the challange-
 
-[https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa]()
+[https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa)
 
 Here is the solution site url-
 [https://syedyeasin-coder.github.io/Product-preview-card-component/](https://syedyeasin-coder.github.io/Product-preview-card-component/)
@@ -27,7 +27,12 @@ Here is the solution site url-
 
 Discord -[Syed Yeasin] UserName: string_tied
 
+X(twitter) - https://x.com/syedyeasin098
+
+linkedin- https://www.linkedin.com/in/syed-yeasin-2721b328a/
+
 Frontend Mentor - https://www.frontendmentor.io/profile/SyedYeasin-Coder
+
 
 ### Any suggestion
 
